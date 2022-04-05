@@ -1,12 +1,12 @@
 # DBMS-COLLEGE-MANAGEMENT-SYSTEM
 
 It is college management system for teacher login who can view all the record and everything of particular student.
-**TOOLS-USED-: **
-*PHP
-*SQL
-*HTML,CSS AND JS
-*XAMPP
-*VISUAL STUDIO CODE
+TOOLS-USED-:
+PHP
+SQL
+HTML,CSS AND JS
+XAMPP
+VISUAL STUDIO CODE
 OUTPUT:-
 ![image](https://user-images.githubusercontent.com/90260133/161796722-65149fa1-3ab7-4d78-a899-d8c7452b6465.png)
 ![image](https://user-images.githubusercontent.com/90260133/161796595-0a3fc30a-44dd-4724-8316-3dea00eafd0f.png)
