@@ -1,6 +1,5 @@
 # DBMS-COLLEGE-MANAGEMENT-SYSTEM
-
-It is college management system for teacher login who can view all the record and everything of particular student.
+We have built a college management system.We created a fully functional system which will give staff and students access through various features. The admin can access features like students attendance, entering the marks , assigning the subjects to different faculties , adding course , adding subjects in course , adding the student, accessing the student profile and teachers profile, checking the status of fee payment etc . The home page will have an admission online form for students to register in university and admission policy will be described to students.  There are  various more features available in our system.
 TOOLS-USED-:
 PHP
 SQL
